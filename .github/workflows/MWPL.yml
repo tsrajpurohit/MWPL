@@ -3,8 +3,7 @@ name: Run event Script
 on:
   schedule:
     # Run every day at 10 PM IST, Monday to Friday
-   - cron: '30-45/5 3 * * 1-5'
- # This cron schedule runs from 3:38 AM to 3:45 AM UTC, Monday to Friday  # This cron schedule runs at 9:30 PM UTC, which is 10:00 PM IST, Monday to Friday
+    - cron: '0 4 * * 1-5'  # This cron schedule runs at 9:30 PM UTC, which is 10:00 PM IST, Monday to Friday
   workflow_dispatch:  # Allows manual trigger of the workflow
 
 jobs:
@@ -28,26 +27,19 @@ jobs:
           GOOGLE_SHEETS_CREDENTIALS: ${{ secrets.GOOGLE_SHEETS_CREDENTIALS }}  # Ensure this matches the secret's name in GitHub
         run: python MWPL.py  # Ensure the path to the script is correct
 
-      - name: Check if CSV files exist
-        run: |
-          ls -al  # List files in the current directory to confirm CSV files exist
-
       - name: Commit and push any modified .csv files
         run: |
-          # Configure git user
+          # Add and commit all modified .csv files
           git config --global user.name "github-actions"
           git config --global user.email "github-actions@github.com"
           
-          # List all .csv files
-          ls -al  # Confirm the CSV files are present
-
-          # Add all .csv files
-          git add *.csv  # Add all .csv files in the directory
+          # Find all .csv files and add them to the commit
+          csv_files=$(find . -type f -name "*.csv")
           
-          # Check if there are any changes to commit
-          if git diff --cached --quiet; then
-            echo "No changes to commit."
-          else
+          if [ -n "$csv_files" ]; then
+            git add $csv_files
             git commit -m "Add or update CSV files"
             git push
+          else
+            echo "No CSV files found. No changes to commit."
           fi
