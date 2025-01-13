@@ -1,0 +1,53 @@
+name: Run event Script
+
+on:
+  schedule:
+    # Run every day at 10 PM IST, Monday to Friday
+   - cron: '30-45/5 3 * * 1-5'
+ # This cron schedule runs from 3:38 AM to 3:45 AM UTC, Monday to Friday  # This cron schedule runs at 9:30 PM UTC, which is 10:00 PM IST, Monday to Friday
+  workflow_dispatch:  # Allows manual trigger of the workflow
+
+jobs:
+  run-script:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.9'
+
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt  # Install dependencies from requirements.txt
+
+      - name: Run script
+        env:
+          GOOGLE_SHEETS_CREDENTIALS: ${{ secrets.GOOGLE_SHEETS_CREDENTIALS }}  # Ensure this matches the secret's name in GitHub
+        run: python MWPL.py  # Ensure the path to the script is correct
+
+      - name: Check if CSV files exist
+        run: |
+          ls -al  # List files in the current directory to confirm CSV files exist
+
+      - name: Commit and push any modified .csv files
+        run: |
+          # Configure git user
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
+          
+          # List all .csv files
+          ls -al  # Confirm the CSV files are present
+
+          # Add all .csv files
+          git add *.csv  # Add all .csv files in the directory
+          
+          # Check if there are any changes to commit
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Add or update CSV files"
+            git push
+          fi
