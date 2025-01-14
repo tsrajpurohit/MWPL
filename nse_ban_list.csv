@@ -1,16 +1,18 @@
 Section,Stock,Value1,Value2
-Securities In Ban,BANDHANBNK,95.62,92.80
-Securities In Ban,HINDCOPPER,95.48,93.58
-Securities In Ban,LTF,101.37,99.17
-Securities In Ban,MANAPPURAM,85.14,82.94
-Securities In Ban,RBLBANK,91.80,90.17
-Possible Entrants,AARTIIND,85.91,87.42
-Possible Entrants,ABFRL,84.09,86.57
-Possible Entrants,CANFINHOME,81.82,82.66
-Possible Entrants,GNFC,79.65,80.09
-Possible Entrants,MGL,88.61,86.09
-Possible Entrants,NMDC,79.90,80.10
-Possible Entrants,PNB,80.08,82.00
-Possible Entrants,PVRINOX,86.26,85.08
-Possible Entrants,SAIL,80.23,82.18
-Possible Exits,MANAPPURAM,85.14,82.94
+Securities In Ban,AARTIIND,87.42,104.07
+Securities In Ban,BANDHANBNK,92.80,89.03
+Securities In Ban,HINDCOPPER,93.58,87.71
+Securities In Ban,LTF,99.17,96.24
+Securities In Ban,MANAPPURAM,82.94,80.87
+Securities In Ban,RBLBANK,90.17,87.53
+Possible Entrants,ABFRL,86.57,88.90
+Possible Entrants,ANGELONE,73.43,88.02
+Possible Entrants,CANFINHOME,82.66,83.52
+Possible Entrants,CHAMBLFERT,79.84,82.95
+Possible Entrants,GNFC,80.09,80.90
+Possible Entrants,IGL,77.63,80.32
+Possible Entrants,MGL,86.09,86.21
+Possible Entrants,PNB,82.00,82.95
+Possible Entrants,PVRINOX,85.08,86.15
+Possible Entrants,SAIL,82.18,83.74
+Possible Exits,MANAPPURAM,82.94,80.87
