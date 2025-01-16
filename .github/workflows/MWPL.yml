@@ -26,7 +26,7 @@ jobs:
       - name: Run script
         env:
           GOOGLE_SHEETS_CREDENTIALS: ${{ secrets.GOOGLE_SHEETS_CREDENTIALS }}  # Ensure this matches the secret's name in GitHub
-        run: python MWPL.py  # Ensure the path to the script is correct
+        run: python MWPLnt.py  # Ensure the path to the script is correct
 
       - name: Check if CSV files exist
         run: |
