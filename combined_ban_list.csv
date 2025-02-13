@@ -1,6 +1,5 @@
 symbol_name,current_percent,previous_percent,list_type
-MANAPPURAM,93.08,95.36,securities_ban_result
-HINDCOPPER,85.06,84.48,possible_entrants_result
-BANDHANBNK,82.54,81.45,possible_entrants_result
-PNB,81.35,79.56,possible_entrants_result
-SAIL,80.91,78.22,possible_entrants_result
+MANAPPURAM,88.16,93.08,securities_ban_result
+HINDCOPPER,86.27,85.06,possible_entrants_result
+BANDHANBNK,82.16,82.54,possible_entrants_result
+PNB,80.74,81.35,possible_entrants_result
