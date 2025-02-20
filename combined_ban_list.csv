@@ -1,8 +1,9 @@
 symbol_name,current_percent,previous_percent,list_type
-MANAPPURAM,122.06,129.64,securities_ban_result
-BANDHANBNK,91.44,86.93,possible_entrants_result
-HINDCOPPER,89.08,89.35,possible_entrants_result
-CANBK,84.91,84.77,possible_entrants_result
-PNB,84.36,83.51,possible_entrants_result
-ABB,83.83,58.26,possible_entrants_result
-SAIL,81.95,81.27,possible_entrants_result
+MANAPPURAM,113.19,122.06,securities_ban_result
+BANDHANBNK,90.76,91.44,possible_entrants_result
+HINDCOPPER,89.58,89.08,possible_entrants_result
+CANBK,85.71,84.91,possible_entrants_result
+PNB,84.33,84.36,possible_entrants_result
+SAIL,82.98,81.95,possible_entrants_result
+ABB,81.42,83.83,possible_entrants_result
+CHAMBLFERT,80.58,78.75,possible_entrants_result
