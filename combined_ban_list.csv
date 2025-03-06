@@ -1,2 +1,4 @@
 symbol_name,current_percent,previous_percent,list_type
-MANAPPURAM,100.24,90.36,securities_ban_result
+MANAPPURAM,95.18,100.24,securities_ban_result
+BSE,80.49,67.43,possible_entrants_result
+SAIL,80.16,72.41,possible_entrants_result
