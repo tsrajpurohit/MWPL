@@ -1,8 +1,10 @@
 symbol_name,current_percent,previous_percent,list_type
-INDUSINDBK,119.1,124.77,securities_ban_result
-HINDCOPPER,95.31,96.64,securities_ban_result
-SAIL,93.51,96.77,securities_ban_result
-BSE,88.19,90.05,securities_ban_result
-MANAPPURAM,85.48,86.57,securities_ban_result
-ANGELONE,89.32,85.97,possible_entrants_result
-AARTIIND,83.94,80.75,possible_entrants_result
+INDUSINDBK,112.23,119.1,securities_ban_result
+HINDCOPPER,93.58,95.31,securities_ban_result
+SAIL,91.7,93.51,securities_ban_result
+BSE,85.94,88.19,securities_ban_result
+MANAPPURAM,83.87,85.48,securities_ban_result
+ANGELONE,88.49,89.32,possible_entrants_result
+AARTIIND,82.58,83.94,possible_entrants_result
+GRANULES,80.9,77.26,possible_entrants_result
+MANAPPURAM,83.87,85.48,possible_exits_result
