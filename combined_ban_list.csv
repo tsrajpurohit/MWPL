@@ -1,11 +1,7 @@
 symbol_name,current_percent,previous_percent,list_type
-INDUSINDBK,94.84,98.58,securities_ban_result
-POLYCAB,83.4,97.63,securities_ban_result
-HINDCOPPER,82.18,83.84,securities_ban_result
-BSOFT,86.54,85.42,possible_entrants_result
-BSE,85.53,85.5,possible_entrants_result
-CHAMBLFERT,84.82,79.41,possible_entrants_result
-LTF,81.89,78.35,possible_entrants_result
-ANGELONE,80.61,83.16,possible_entrants_result
-POLYCAB,83.4,97.63,possible_exits_result
-HINDCOPPER,82.18,83.84,possible_exits_result
+INDUSINDBK,86.86,94.84,securities_ban_result
+BSE,89.3,85.53,possible_entrants_result
+BSOFT,86.91,86.54,possible_entrants_result
+SAIL,83.07,78.02,possible_entrants_result
+CHAMBLFERT,82.86,84.82,possible_entrants_result
+MANAPPURAM,82.43,64.83,possible_entrants_result
