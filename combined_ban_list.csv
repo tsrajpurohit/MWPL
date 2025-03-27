@@ -1,10 +1,7 @@
 symbol_name,current_percent,previous_percent,list_type
-INDUSINDBK,81.57,86.86,securities_ban_result
-HINDCOPPER,89.14,79.35,possible_entrants_result
-BSOFT,87.93,86.91,possible_entrants_result
-AARTIIND,87.24,74.12,possible_entrants_result
-BSE,87.16,89.3,possible_entrants_result
-MANAPPURAM,86.74,82.43,possible_entrants_result
-SAIL,83.7,83.07,possible_entrants_result
-IREDA,81.69,64.1,possible_entrants_result
-INDUSINDBK,81.57,86.86,possible_exits_result
+HINDCOPPER,97.63,89.14,securities_ban_result
+BSOFT,90.82,87.93,possible_entrants_result
+MANAPPURAM,90.45,86.74,possible_entrants_result
+BSE,85.87,87.16,possible_entrants_result
+SAIL,84.4,83.7,possible_entrants_result
+AARTIIND,83.54,87.24,possible_entrants_result
