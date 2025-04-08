@@ -1,5 +1,5 @@
 symbol_name,current_percent,previous_percent,list_type
-HINDCOPPER,115.11,91.25,securities_ban_result
-BSOFT,100.79,85.15,securities_ban_result
-MANAPPURAM,92.97,84.85,possible_entrants_result
-NATIONALUM,81.73,69.93,possible_entrants_result
+MANAPPURAM,116.06,92.97,securities_ban_result
+HINDCOPPER,105.46,115.11,securities_ban_result
+BSOFT,90.91,100.79,securities_ban_result
+NATIONALUM,87.08,81.73,possible_entrants_result
