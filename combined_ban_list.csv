@@ -1,7 +1,10 @@
 symbol_name,current_percent,previous_percent,list_type
-ANGELONE,99.33,91.74,securities_ban_result
-MANAPPURAM,98.23,102.05,securities_ban_result
-HINDCOPPER,92.29,95.77,securities_ban_result
-IREDA,91.47,104.66,securities_ban_result
-NATIONALUM,84.01,88.15,securities_ban_result
-NATIONALUM,84.01,88.15,possible_exits_result
+TATAELXSI,99.52,76.17,securities_ban_result
+MANAPPURAM,91.56,98.23,securities_ban_result
+HINDCOPPER,85.69,92.29,securities_ban_result
+IREDA,82.35,91.47,securities_ban_result
+ANGELONE,80.07,99.33,securities_ban_result
+AARTIIND,84.84,78.38,possible_entrants_result
+BSOFT,80.96,79.51,possible_entrants_result
+IREDA,82.35,91.47,possible_exits_result
+ANGELONE,80.07,99.33,possible_exits_result
