@@ -1,8 +1,4 @@
 symbol_name,current_percent,previous_percent,list_type
-RBLBANK,100.56,75.78,securities_ban_result
-MANAPPURAM,84.58,91.56,securities_ban_result
-BSOFT,85.45,80.96,possible_entrants_result
-INDUSINDBK,83.32,77.17,possible_entrants_result
-AARTIIND,83.07,84.84,possible_entrants_result
-CDSL,81.17,77.83,possible_entrants_result
-MANAPPURAM,84.58,91.56,possible_exits_result
+RBLBANK,93.29,100.56,securities_ban_result
+HINDCOPPER,88.34,79.68,possible_entrants_result
+AARTIIND,83.26,83.07,possible_entrants_result
