@@ -1,5 +1,4 @@
 symbol_name,current_percent,previous_percent,list_type
-RBLBANK,98.56,107.45,securities_ban_result
-MANAPPURAM,84.31,74.17,possible_entrants_result
-LTF,83.37,80.18,possible_entrants_result
-SYNGENE,80.63,78.76,possible_entrants_result
+RBLBANK,93.36,98.56,securities_ban_result
+MANAPPURAM,92.9,84.31,possible_entrants_result
+TATATECH,80.71,75.78,possible_entrants_result
