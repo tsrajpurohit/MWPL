@@ -1,6 +1,4 @@
 symbol_name,current_percent,previous_percent,list_type
-RBLBANK,91.23,93.36,securities_ban_result
-MANAPPURAM,93.74,92.9,possible_entrants_result
-CDSL,86.14,77.11,possible_entrants_result
-TATATECH,82.34,80.71,possible_entrants_result
-BANDHANBNK,81.75,74.26,possible_entrants_result
+MANAPPURAM,104.63,93.74,securities_ban_result
+RBLBANK,89.29,91.23,securities_ban_result
+CDSL,88.45,86.14,possible_entrants_result
