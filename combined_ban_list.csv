@@ -1,6 +1,7 @@
 symbol_name,current_percent,previous_percent,list_type
-MANAPPURAM,89.62,91.37,securities_ban_result
-CDSL,88.91,94.25,securities_ban_result
-ACC,88.87,86.8,possible_entrants_result
-HINDCOPPER,87.73,86.12,possible_entrants_result
-SYNGENE,80.72,81.46,possible_entrants_result
+HINDCOPPER,100.61,87.73,securities_ban_result
+MANAPPURAM,87.37,89.62,securities_ban_result
+CDSL,87.1,88.91,securities_ban_result
+ACC,91.02,88.87,possible_entrants_result
+RBLBANK,82.28,79.5,possible_entrants_result
+SAIL,82.02,76.81,possible_entrants_result
