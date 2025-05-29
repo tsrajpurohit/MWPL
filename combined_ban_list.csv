@@ -1,6 +1,8 @@
 symbol_name,current_percent,previous_percent,list_type
-RBLBANK,80.46,86.36,securities_ban_result
-SAIL,90.96,92.14,possible_entrants_result
-CDSL,82.88,87.63,possible_entrants_result
-HFCL,82.41,80.32,possible_entrants_result
-RBLBANK,80.46,86.36,possible_exits_result
+SAIL,93.02,90.96,possible_entrants_result
+HINDCOPPER,90.94,77.96,possible_entrants_result
+GRANULES,84.17,79.8,possible_entrants_result
+BSOFT,83.87,72.95,possible_entrants_result
+CDSL,83.82,82.88,possible_entrants_result
+MANAPPURAM,81.31,76.1,possible_entrants_result
+CHAMBLFERT,81.03,79.95,possible_entrants_result
