@@ -1,8 +1,8 @@
 symbol_name,current_percent,previous_percent,list_type
-ABFRL,113.69,121.26,securities_ban_result
-CHAMBLFERT,106.93,114.18,securities_ban_result
-HINDCOPPER,105.71,85.59,securities_ban_result
-MANAPPURAM,85.96,101.44,securities_ban_result
-TITAGARH,87.95,83.17,possible_entrants_result
-CDSL,87.83,80.79,possible_entrants_result
-RBLBANK,81.45,75.19,possible_entrants_result
+TITAGARH,134.34,87.95,securities_ban_result
+ABFRL,109.9,113.69,securities_ban_result
+CHAMBLFERT,103.54,106.93,securities_ban_result
+HINDCOPPER,99.65,105.71,securities_ban_result
+RBLBANK,91.31,81.45,possible_entrants_result
+CDSL,89.07,87.83,possible_entrants_result
+IREDA,88.31,76.56,possible_entrants_result
