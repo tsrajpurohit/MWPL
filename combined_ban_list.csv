@@ -1,10 +1,5 @@
 symbol_name,current_percent,previous_percent,list_type
-RBLBANK,82.6,86.25,securities_ban_result
-BIOCON,81.09,89.63,securities_ban_result
-TATATECH,87.1,85.28,possible_entrants_result
-CDSL,82.9,77.8,possible_entrants_result
-MCX,81.75,76.62,possible_entrants_result
-BSOFT,80.75,82.09,possible_entrants_result
-HINDCOPPER,80.65,83.0,possible_entrants_result
-RBLBANK,82.6,86.25,possible_exits_result
-BIOCON,81.09,89.63,possible_exits_result
+TITAGARH,96.33,74.77,securities_ban_result
+TATATECH,85.93,87.1,possible_entrants_result
+LTF,83.17,76.79,possible_entrants_result
+CDSL,81.01,82.9,possible_entrants_result
