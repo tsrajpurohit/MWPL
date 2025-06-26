@@ -1,5 +1,9 @@
 symbol_name,current_percent,previous_percent,list_type
-TITAGARH,96.33,74.77,securities_ban_result
-TATATECH,85.93,87.1,possible_entrants_result
-LTF,83.17,76.79,possible_entrants_result
-CDSL,81.01,82.9,possible_entrants_result
+BSOFT,104.29,77.65,securities_ban_result
+MCX,97.18,78.66,securities_ban_result
+TITAGARH,81.85,96.33,securities_ban_result
+RBLBANK,90.97,79.92,possible_entrants_result
+LTF,83.6,83.17,possible_entrants_result
+TATATECH,82.02,85.93,possible_entrants_result
+BANDHANBNK,81.2,78.55,possible_entrants_result
+TITAGARH,81.85,96.33,possible_exits_result
