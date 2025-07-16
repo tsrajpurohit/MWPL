@@ -1,7 +1,9 @@
 symbol_name,current_percent,previous_percent,list_type
-HINDCOPPER,93.48,95.3,securities_ban_result
-GLENMARK,86.89,98.7,securities_ban_result
-RBLBANK,80.96,82.94,securities_ban_result
-BANDHANBNK,85.36,84.4,possible_entrants_result
-ABFRL,84.18,82.55,possible_entrants_result
-RBLBANK,80.96,82.94,possible_exits_result
+HINDCOPPER,92.17,93.48,securities_ban_result
+GLENMARK,83.25,86.89,securities_ban_result
+RBLBANK,80.44,80.96,securities_ban_result
+ABFRL,88.1,84.18,possible_entrants_result
+ANGELONE,86.94,78.68,possible_entrants_result
+BANDHANBNK,86.22,85.36,possible_entrants_result
+GLENMARK,83.25,86.89,possible_exits_result
+RBLBANK,80.44,80.96,possible_exits_result
