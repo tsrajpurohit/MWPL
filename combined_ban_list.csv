@@ -1,8 +1,7 @@
 symbol_name,current_percent,previous_percent,list_type
-IEX,107.95,113.72,securities_ban_result
-RBLBANK,92.32,93.13,securities_ban_result
-BANDHANBNK,83.46,86.23,securities_ban_result
-ABFRL,89.89,91.02,possible_entrants_result
-TITAGARH,82.62,82.17,possible_entrants_result
-LTF,80.11,78.36,possible_entrants_result
-BANDHANBNK,83.46,86.23,possible_exits_result
+IEX,96.48,107.95,securities_ban_result
+RBLBANK,91.75,92.32,securities_ban_result
+ABFRL,89.91,89.89,possible_entrants_result
+TITAGARH,83.47,82.62,possible_entrants_result
+NMDC,80.67,78.26,possible_entrants_result
+LTF,80.55,80.11,possible_entrants_result
