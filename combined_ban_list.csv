@@ -1,8 +1,8 @@
 symbol_name,current_percent,previous_percent,list_type
-RBLBANK,102.76,103.98,securities_ban_result
-TITAGARH,95.86,114.66,securities_ban_result
-PGEL,94.88,102.72,securities_ban_result
-PNBHOUSING,82.38,83.75,securities_ban_result
-LICHSGFIN,86.51,86.29,possible_entrants_result
-SAIL,83.49,81.41,possible_entrants_result
-PNBHOUSING,82.38,83.75,possible_exits_result
+RBLBANK,101.68,102.76,securities_ban_result
+TITAGARH,92.93,95.86,securities_ban_result
+PGEL,91.61,94.88,securities_ban_result
+PNBHOUSING,80.79,82.38,securities_ban_result
+LICHSGFIN,88.47,86.51,possible_entrants_result
+SAIL,86.05,83.49,possible_entrants_result
+PNBHOUSING,80.79,82.38,possible_exits_result
