@@ -1,3 +1,5 @@
 symbol_name,current_percent,previous_percent,list_type
-RBLBANK,86.95,88.72,securities_ban_result
-HFCL,85.61,85.47,possible_entrants_result
+OFSS,114.73,59.76,securities_ban_result
+RBLBANK,86.6,86.95,securities_ban_result
+HFCL,88.89,85.61,possible_entrants_result
+ANGELONE,83.94,63.88,possible_entrants_result
