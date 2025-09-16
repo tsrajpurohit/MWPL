@@ -1,6 +1,8 @@
 symbol_name,current_percent,previous_percent,list_type
-HFCL,104.31,88.89,securities_ban_result
-OFSS,94.33,114.73,securities_ban_result
-RBLBANK,85.18,86.6,securities_ban_result
-ANGELONE,84.93,83.94,possible_entrants_result
-PNBHOUSING,80.06,78.42,possible_entrants_result
+ANGELONE,103.14,84.93,securities_ban_result
+HFCL,92.06,104.31,securities_ban_result
+OFSS,90.65,94.33,securities_ban_result
+RBLBANK,84.13,85.18,securities_ban_result
+TITAGARH,82.44,66.42,possible_entrants_result
+PNBHOUSING,81.37,80.06,possible_entrants_result
+RBLBANK,84.13,85.18,possible_exits_result
