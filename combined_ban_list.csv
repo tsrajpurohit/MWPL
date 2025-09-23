@@ -1,7 +1,7 @@
 symbol_name,current_percent,previous_percent,list_type
-SAMMAANCAP,100.12,84.86,securities_ban_result
-HFCL,92.08,97.99,securities_ban_result
-ANGELONE,81.16,85.12,securities_ban_result
-TITAGARH,82.7,83.77,possible_entrants_result
-PNBHOUSING,80.23,80.67,possible_entrants_result
-ANGELONE,81.16,85.12,possible_exits_result
+RBLBANK,106.49,79.93,securities_ban_result
+SAMMAANCAP,93.8,100.12,securities_ban_result
+HFCL,87.78,92.08,securities_ban_result
+TITAGARH,83.71,82.7,possible_entrants_result
+BANDHANBNK,81.8,78.3,possible_entrants_result
+PNBHOUSING,80.36,80.23,possible_entrants_result
