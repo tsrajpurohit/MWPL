@@ -1,3 +1,3 @@
 symbol_name,current_percent,previous_percent,list_type
-SAMMAANCAP,125.06,78.42,securities_ban_result
-RBLBANK,92.34,95.26,securities_ban_result
+SAMMAANCAP,84.42,125.06,securities_ban_result
+SAMMAANCAP,84.42,125.06,possible_exits_result
