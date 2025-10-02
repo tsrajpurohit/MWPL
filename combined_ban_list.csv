@@ -1,3 +1,12 @@
 symbol_name,current_percent,previous_percent,list_type
-SAMMAANCAP,84.42,125.06,securities_ban_result
-SAMMAANCAP,84.42,125.06,possible_exits_result
+RBLBANK,146.1,65.92,securities_ban_result
+SAMMAANCAP,105.0,84.42,securities_ban_result
+IDEA,95.72,51.12,possible_entrants_result
+HFCL,93.14,66.19,possible_entrants_result
+BANDHANBNK,91.45,64.54,possible_entrants_result
+LICHSGFIN,91.34,67.19,possible_entrants_result
+PNB,91.06,55.86,possible_entrants_result
+SAIL,89.29,63.62,possible_entrants_result
+NATIONALUM,84.74,61.73,possible_entrants_result
+KALYANKJIL,81.1,60.12,possible_entrants_result
+DLF,80.09,49.2,possible_entrants_result
