@@ -1,5 +1,7 @@
 symbol_name,current_percent,previous_percent,list_type
-SAIL,95.68,94.8,securities_ban_result
-BANDHANBNK,93.28,95.12,securities_ban_result
-MANAPPURAM,84.19,84.17,possible_entrants_result
-INOXWIND,83.8,80.6,possible_entrants_result
+SAIL,94.67,95.68,securities_ban_result
+BANDHANBNK,92.81,93.28,securities_ban_result
+LICI,91.1,78.43,possible_entrants_result
+MANAPPURAM,85.73,84.19,possible_entrants_result
+INOXWIND,84.58,83.8,possible_entrants_result
+KAYNES,80.97,79.29,possible_entrants_result
